@@ -52,6 +52,7 @@ button {
     color: steelblue;
     font-size: inherit;
     transition: all 0.25s;
+    outline: none;
 }
 button:hover {
     background-color: steelblue;
