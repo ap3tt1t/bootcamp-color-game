@@ -62,3 +62,10 @@ button:hover {
     display: inline-block;
     width: 20%;
 }
+p.rules {
+    color: white;
+    font-weight: 500;
+    padding-top: 100px;
+    margin: 0 auto;
+    width: 600px;
+}
